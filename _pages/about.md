@@ -10,7 +10,7 @@ redirect_from:
 Welcome to my professional portfolio!
 
 I’m **Pandiarajan**, a skilled **Production Operator, CNC Programmer, and KUKA Robotic Milling Operator** with hands-on industrial experience across **India, Malaysia, and Saudi Arabia**. I specialize in cable production processes, CNC programming, and robotic machining using **Autodesk PowerMill**.
-![pic1](/images/pic1.jpg){: .align-center}
+![pic1](/images/pic1.png){: .align-center}
 ![pic2](/images/pic2.png){: .align-center}
 ![pic3](/images/pic3.png){: .align-center}
 ![pic4](/images/pic4.png){: .align-center}
