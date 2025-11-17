@@ -11,54 +11,67 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Economics, The American College, Madurai, India — 2018  
+* DCA (Diploma in Computer Applications), CSC Center, Madurai — 2018  
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Amsy Constructions, Riyadh, Saudi Arabia** — Oct 2024 to Present  
+  * *KUKA Milling Robot Operator & Programmer (Autodesk PowerMill)*  
+    - Conduct robotic system inspections at startup to ensure readiness  
+    - Load and verify pallets according to quality standards  
+    - Monitor pallet quality and identify defects  
+    - Apply correct pallet patterns for efficient loading  
+    - Document downtime and mechanical issues; coordinate repairs  
+    - Maintain clean, safe working environment and follow cleaning protocols  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Bahra Electric Manufacturing Company, Jeddah, Saudi Arabia** — Sep 2023 to Oct 2024  
+  * *Production Operator (Multi-color Cable Production)*  
+    - Machine setup, material loading, and equipment adjustment  
+    - Check cable against standards and product specifications  
+    - Monitor cycle time, quality, and output efficiency  
+    - Troubleshoot minor process issues and reduce downtime  
+    - Maintain production reports and machine logs  
+    - Operate Maillefer 120, Rosendahl 150, Polyester machines  
+    - Perform rewinding, insulation repair, and cable jointing  
+    - Maintain 5S and proper tool organization  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
+* **Polycab, Bangalore, India** — Jan 2020 to May 2023  
+  * *Production Operator*  
+    - Achieved shift-based production targets  
+    - Monitored temperature, material availability, and machine settings  
+    - Selected machine dies and ensured correct setup  
+    - Performed intermediate quality checks  
+    - Operated multi-color extrusion and rewinding machines  
+    - Conducted inventory counts and ensured 5S compliance  
+    - Implemented bin standards, handled hold/rework/rejection materials  
+
+* **Sideline Express, Malaysia** — Nov 2018 to Dec 2019  
+  * *Warehouse Operator*  
+    - Managed inward/outward entries and delivery documentation  
+    - Performed field collections and deliveries  
+    - Used barcode scanners for system updates  
+    - Tracked and recorded goods movement  
+    - Operated multiple vehicle types; holder of Indian & Malaysian licenses  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Technical Skills**  
+  - CNC Programming  
+  - KUKA robotic milling (Autodesk PowerMill)  
+  - Cable production & extrusion process operations  
+  - Machine troubleshooting and setup  
+  - ERP: Advairs ERP (production entries, material request, bin updates, maintenance logging)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Manufacturing & Quality**  
+  - Multi-color cable extrusion  
+  - Rewinding & insulation repair  
+  - Process monitoring & cycle time optimization  
+  - 5S, Kaizen, Kanban, SMED  
+  - Material control & waste reduction  
+
+* **IT Skills**  
+  - MS Office (Excel, Word, PowerPoint)  
+  - Operating Systems & general computer applications  
+
