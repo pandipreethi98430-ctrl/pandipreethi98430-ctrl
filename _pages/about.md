@@ -17,15 +17,15 @@ I actively apply lean manufacturing principles such as **5S, Kaizen, SMED, and K
 
 ---
 
-
 ## Gallery
 
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;">
 
-  <img src="/images/pic1.png" style="width:100%; border-radius:8px;">
-  <img src="/images/pic2.png" style="width:100%; border-radius:8px;">
-  <img src="/images/pic3.png" style="width:100%; border-radius:8px;">
-  <img src="/images/pic4.png" style="width:100%; border-radius:8px;">
+  <img src="{{ site.baseurl }}/images/pic1.jpg" style="width:100%; border-radius:8px;">
+  <img src="{{ site.baseurl }}/images/pic2.jpg" style="width:100%; border-radius:8px;">
+  <img src="{{ site.baseurl }}/images/pic3.jpg" style="width:100%; border-radius:8px;">
+  <img src="{{ site.baseurl }}/images/pic4.jpg" style="width:100%; border-radius:8px;">
+
 
 
 </div>
