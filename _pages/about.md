@@ -13,6 +13,17 @@ I’m **Pandiarajan**, a skilled **Production Operator, CNC Programmer, and KUKA
 
 Over the years, I have worked in diverse manufacturing environments, operating advanced machinery such as **Maillefer**, **Rosendahl**, multi-color extrusion systems, and robotic milling setups. My work focuses on precision, safety, and efficiency—whether I’m optimizing production cycles, troubleshooting machine issues, improving process flow, or ensuring product quality.
 
-I actively apply lean manufacturing principles such as **5S, Kaizen, SMED, and Kanban**, and I’m experienced with **ERP systems (Advairs ERP)** for production tracking and process documentation. My background has allowed me to build strong technical problem-solving skills and the ability to work effectively in fast-paced industrial environments.
+I actively apply lean manufacturing principles such as **5S, Kaizen, SMED, and Kanban**, and I’m experienced with **ERP systems (Advairs ERP)** for production tracking and process documentation. My background has helped me build strong technical problem-solving skills and the ability to work effectively in fast-paced industrial environments.
 
-This website includes my **CV**, work experience, and other professional information. Thank you for visiting—feel free to explore and reach out if you'd like to connect!
+---
+
+## **Gallery**
+
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px;">
+
+  <img src="/images/pic1.jpg" alt="Image 1" style="width: 100%; border-radius: 8px;">
+  <img src="/images/pic2.jpg" alt="Image 2" style="width: 100%; border-radius: 8px;">
+  <img src="/images/pic3.jpg" alt="Image 3" style="width: 100%; border-radius: 8px;">
+  <img src="/images/pic4.jpg" alt="Image 4" style="width: 100%; border-radius: 8px;">
+
+</div>
