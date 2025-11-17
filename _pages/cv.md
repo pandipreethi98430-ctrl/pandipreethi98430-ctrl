@@ -18,12 +18,10 @@ Work Experience
 ======
 * **Amsy Constructions, Riyadh, Saudi Arabia** — Oct 2024 to Present  
   * *KUKA Milling Robot Operator & Programmer (Autodesk PowerMill)*  
-    - Conduct robotic system inspections at startup to ensure readiness  
-    - Load and verify pallets according to quality standards  
-    - Monitor pallet quality and identify defects  
-    - Apply correct pallet patterns for efficient loading  
-    - Document downtime and mechanical issues; coordinate repairs  
-    - Maintain clean, safe working environment and follow cleaning protocols  
+    - Programmed and optimized KUKA robotic cell using Autodesk PowerMill for complex fabrication tasks
+    - Implemented quality control procedures for robotic manufacturing processes
+    - Developed and simulated precision toolpaths for robotic machining applications
+    - Troubleshot and resolved technical issues in robotic workcell operations
 
 * **Bahra Electric Manufacturing Company, Jeddah, Saudi Arabia** — Sep 2023 to Oct 2024  
   * *Production Operator (Multi-color Cable Production)*  
