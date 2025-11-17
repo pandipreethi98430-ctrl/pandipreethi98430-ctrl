@@ -14,8 +14,8 @@ title                    : "Pandiarajan"
 title_separator          : "-"
 name                     : &name "Pandiarajan"
 description              : &description "Pandiarajan's professional portfolio"
-url: "https://pandipreethi98430-ctrl.github.io"
-baseurl: "/pandipreethi98430-ctrl"
+url                      :  "https://pandipreethi98430-ctrl.github.io"
+baseurl                  : "/pandipreethi98430-ctrl"
 repository               : "pandipreethi98430-ctrl/pandipreethi98430-ctrl.github.io"
 
 # Site Author
